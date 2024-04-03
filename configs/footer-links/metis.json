@@ -1,0 +1,87 @@
+[
+    {
+        "title":"Metis",
+        "links":[
+            {
+                "text": "Home",
+                "url": "https://www.metis.io/"
+            },
+            {
+                "text": "Governance",
+                "url": "https://www.metis.io/ceg"
+            },
+            {
+                "text": "Bridge",
+                "url": "https://www.metis.io/bridge"
+            },
+            {
+                "text": "Ecosystem",
+                "url": "https://www.metis.io/ecosystem"
+            },
+            {
+                "text": "Contact us",
+                "url": "https://www.metis.io/contact-us/"
+            }
+        ]
+    },
+    {
+        "title": "Developers",
+        "links":[
+            {
+                "text": "Documentation",
+                "url": "https://docs.metis.io/dev/"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/MetisProtocol"
+            },
+            {
+                "text": "Bug bounty",
+                "url": "https://immunefi.com/bounty/metis/"
+            },
+            {
+                "text": "Support",
+                "url": "https://metisdao.atlassian.net/servicedesk/customer/user/login?destination=portals"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links":[
+            {
+                "text": "Discord",
+                "url": "https://discord.com/invite/metis"
+            },
+            {
+                "text": "Twitter",
+                "url": "https://twitter.com/MetisL2"
+            },
+            {
+                "text": "YouTube",
+                "url": "https://www.youtube.com/@Metis_L2"
+            },
+            {
+                "text": "Telegram",
+                "url": "https://t.me/MetisProtocol"
+            },
+            {
+                "text": "Events",
+                "url": "https://www.metis.io/events"
+            },
+            {
+                "text": "Blog",
+                "url": "https://www.metis.io/blog"
+            },
+            {
+                "text": "Newsletter",
+                "url":"https://www.metis.io/newsletter"
+            }
+        ]
+    },
+    {
+        "title":"Partners",
+        "links":[
+            
+        ]
+    }
+]

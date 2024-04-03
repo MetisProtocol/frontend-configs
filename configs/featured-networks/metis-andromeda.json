@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Metis Andromeda",
+        "url": "https://andromeda-explorer.metis.io/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/MetisProtocol/frontend-configs/main/configs/network-icons/metis.svg",
+        "isActive": true
+    },
+    {
+        "title": "Metis Sepolia",
+        "url": "https://sepolia-explorer.metisdevops.link/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/MetisProtocol/frontend-configs/main/configs/network-icons/metis.svg"
+    }
+]

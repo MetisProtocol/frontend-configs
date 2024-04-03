@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Morpho Aave App",
+        "logo": "https://blockscout-content.s3.amazonaws.com/MorphoAaveApp.png",
+        "description": "A dApp to manage your positions on Morpho-Compound and Morpho-Aave",
+        "shortDescription": "A dApp to manage your positions on Morpho-Compound and Morpho-Aave",
+        "categories": ["Lending"],
+        "site": "https://aavev3.morpho.org/",
+        "url": "https://aavev3.morpho.org/",
+        "id": "morpho-aave-app",
+        "author": "Morpho Aave App",
+        "internalWallet": true,
+        "external": false
+    }
+]
